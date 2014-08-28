@@ -27,7 +27,6 @@ will enable us to set up your accounts.
 	
     * If using putty, don't forget to save session information so you
     can load it and connect next time
-  
 3. [**Clone**][ref-clone] the repository to your virtual machine
 
   If you have not set these up, please do (replace USERNAME with your own):
@@ -48,7 +47,6 @@ will enable us to set up your accounts.
 	
    * Username for 'https://github.com': 
    * Password for 'https://USERNAME@github.com': 
-
 4. Then run
     ```
 	ipython notebook --no-browser
@@ -70,7 +68,6 @@ will enable us to set up your accounts.
        <enter> to confirm the file name
 
    Now back in the shell
-
 8. [**Push**][ref-push]/sync the changes to GitHub.
     ```
 	git push
