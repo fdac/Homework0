@@ -13,7 +13,7 @@ will enable us to set up your accounts.
 
 ===========
 1. To start, [**fork** repository][forking] [fdac/Homework0][assignment]
-1. Connect to your virtual machine
+2. Connect to your virtual machine
     * if using ssh consider creating the following entry in ~/.ssh/config
 
     ```
@@ -28,7 +28,7 @@ will enable us to set up your accounts.
     * If using putty, don't forget to save session information so you
     can load it and connect next time
   
-1. [**Clone**][ref-clone] the repository to your virtual machine
+3. [**Clone**][ref-clone] the repository to your virtual machine
 
   If you have not set these up, please do (replace USERNAME with your own):
     ```
@@ -49,14 +49,14 @@ will enable us to set up your accounts.
    * Username for 'https://github.com': 
    * Password for 'https://USERNAME@github.com': 
 
-1. Then run
+4. Then run
     ```
 	ipython notebook --no-browser
     ```
-1. Point your browser (on your laptop or, optionally on your virtual
+5. Point your browser (on your laptop or, optionally on your virtual
    machine) to http://localhost:8888
-1. Edit the example to complete the assignment
-1. On the virtual machine [**commit**][ref-commit] changes to complete your solution.
+6. Edit the example to complete the assignment
+7. On the virtual machine [**commit**][ref-commit] changes to complete your solution.
 
    (you may need to press \<ctrl-C\> to kill ipython notebook that was running)
     ```
@@ -71,11 +71,11 @@ will enable us to set up your accounts.
 
    Now back in the shell
 
-1. [**Push**][ref-push]/sync the changes to GitHub.
+8. [**Push**][ref-push]/sync the changes to GitHub.
     ```
 	git push
     ```
-1. At https://github.com/USERNAME/Homework0
+9. At https://github.com/USERNAME/Homework0
    Create a [**pull request**][pull-request] on the
    original repository [fdac/Homework0][assignment]  to
    turn in the assignment.
