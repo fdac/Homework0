@@ -42,7 +42,6 @@ will enable us to set up your accounts.
 	git clone https://USERNAME@github.com/USERNAME/Homework0
     ```
    You will be asked to enter your github username and password
-	
    * Username for 'https://github.com': 
    * Password for 'https://USERNAME@github.com': 
 4. Then run
