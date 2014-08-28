@@ -22,9 +22,7 @@ will enable us to set up your accounts.
         hostname 192.168.56.2
         LocalForward 8888 127.0.0.1:8888
     ```
-
-     then simply ssh da
-	
+    then simply ssh da
     * If using putty, don't forget to save session information so you
     can load it and connect next time
 3. [**Clone**][ref-clone] the repository to your virtual machine
